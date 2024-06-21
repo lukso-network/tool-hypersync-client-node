@@ -1,3 +1,6 @@
+
+# NOTE: This repo must be public since it's a fork and required for patching from docker buildx.
+
 # @envio-dev/hypersync-client-node
 import { HypersyncClient, Decoder } from "@envio-dev/hypersync-client";
 import fs from "node:fs";
